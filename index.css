@@ -1,0 +1,58 @@
+/*anasayfa*/
+#home{
+    background-color: #f7e8ca;
+    color:rgb(92, 55, 55);
+}
+div{
+    margin:0;
+    padding: 10px;
+    
+}
+
+/*card*/
+#root{
+    
+    background-color: rgb(248, 190, 229);
+    color:rgb(66, 18, 66);
+}
+/* header kısmı*/
+img{
+    width: auto;
+    height: 150px;
+}
+h1{
+    font-size: xx-large;
+    font-weight: 100;
+    text-align: center;
+}
+
+/*form css*/
+
+form, label, select{
+    margin:15px;
+    padding: 5px;
+    font-size: large;
+}
+
+#hayvanEkle{
+    float: right;
+    background-color: rgb(88, 38, 88);
+    border: 1px solid rgb(88, 38, 88);
+}
+
+#sahiplen{
+    background-color: rgb(190, 56, 79);
+    color:white;
+}
+/*footer css*/
+footer, h3, i{
+    font-size: 45px;
+    text-align: center;
+    background-color: #f7e8ca;
+    color:rgb(92, 55, 55);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+i{
+    padding-left: 50px;
+}
